@@ -115,8 +115,8 @@
 }
 
 /* hover  */
-.hover_fw_600:hover {
-    font-weight: 600;
+.hover_nav_li:hover {
+    -webkit-text-stroke: 1px;
 }
 
 .item:hover .hover_image {
@@ -979,6 +979,7 @@
 .h_900 {
     height: 900px !important;
 }
+
 .top_-49 {
     top: -49px;
 }
